@@ -1,4 +1,4 @@
 .intro {
   align-items: start;
-  width: 77%;
+  width: calc(100% - 298px);
 }
