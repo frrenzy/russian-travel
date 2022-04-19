@@ -6,3 +6,7 @@
   padding: 0 0 80px;
   margin: 0;
 }
+
+.place:last-of-type {
+  padding: 0;
+}
