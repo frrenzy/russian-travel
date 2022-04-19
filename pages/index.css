@@ -32,6 +32,7 @@
 
 @import "../blocks/places/places.css";
 @import "../blocks/place/place.css";
+@import "../blocks/link/link.css";
 @import "../blocks/place/__title/place__title.css";
 @import "../blocks/place/__image/place__image.css";
 @import "../blocks/place/__paragraph/place__paragraph.css";
