@@ -10,6 +10,8 @@
 @import "../blocks/header/_offset/header_offset.css";
 @import "../blocks/header/__lang-link/_selected/header__lang-link_selected.css";
 
+@import "../blocks/main/main.css";
+
 @import "../blocks/section/section.css";
 @import "../blocks/section/_offset/section_offset.css";
 @import "../blocks/lead/lead.css";
@@ -17,3 +19,10 @@
 @import "../blocks/lead/__subtitle/lead__subtitle.css";
 @import "../blocks/lead/__image/lead__image.css";
 @import "../blocks/lead/__caption/lead__caption.css";
+
+@import "../blocks/intro/intro.css";
+@import "../blocks/intro/__title/intro__title.css";
+@import "../blocks/intro/__text/intro__text.css";
+@import "../blocks/intro/__list/intro__list.css";
+@import "../blocks/intro/__list-item/intro__list-item.css";
+@import "../blocks/intro/__list-title/intro__list-title.css";
