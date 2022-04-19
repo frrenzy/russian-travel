@@ -1,2 +1,11 @@
 @import "../vendor/normalize.css";
 @import "../fonts/inter/inter.css";
+
+@import "../blocks/page/page.css";
+@import "../blocks/content/content.css";
+
+@import "../blocks/header/header.css";
+@import "../blocks/header/__lang-links/header__lang-links.css";
+@import "../blocks/header/__lang-link/header__lang-link.css";
+@import "../blocks/header/_offset/header_offset.css";
+@import "../blocks/header/__lang-link/_selected/header__lang-link_selected.css";
