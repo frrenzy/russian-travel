@@ -2,3 +2,10 @@
   justify-self: start;
   align-self: end;
 }
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    align-self: start;
+    margin: 0 16px;
+  }
+}
