@@ -1,11 +1,27 @@
 .intro {
   align-items: start;
-  width: calc(100% - 200px);
-  max-width: 984px;
+  width: 100%;
+  min-width: 288px;
+  border: 1px solid red;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 767px) {
+  .intro {
+    width: calc(100% - 32px);
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
   .intro {
     width: 100%;
+    max-width: 928px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .intro {
+    width: 100%;
+    max-width: 984px;
   }
 }

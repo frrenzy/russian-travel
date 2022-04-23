@@ -2,4 +2,22 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: calc(100% - 96px);
+  margin: 0;
+  padding: 0;
 }
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+  .main {
+    width: calc(100% - 48px);
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .main {
+    width: calc(100% - 32px);
+    max-width: 720px;
+  }
+}
+
