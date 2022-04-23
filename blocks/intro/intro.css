@@ -1,4 +1,11 @@
 .intro {
   align-items: start;
-  width: calc(100% - 298px);
+  width: calc(100% - 200px);
+  max-width: 984px;
+}
+
+@media screen and (max-width: 1279px) {
+  .intro {
+    width: 100%;
+  }
 }

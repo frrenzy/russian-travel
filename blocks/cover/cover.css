@@ -1,7 +1,7 @@
 .cover {
   position: relative;
   height: 740px;
-  width: calc(100% - 96px);
+  width: 100%;
   background-image: url(../../images/cover-trains.jpg);
   background-size: contain;
   justify-content: center;
