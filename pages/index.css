@@ -10,13 +10,13 @@
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__lang-links/header__lang-links.css";
 @import "../blocks/header/__lang-link/header__lang-link.css";
-@import "../blocks/header/_offset/header_offset.css";
+@import "../blocks/section/_offset/section_offset_header.css";
 @import "../blocks/header/__lang-link/_selected/header__lang-link_selected.css";
 
 @import "../blocks/main/main.css";
 
 @import "../blocks/section/section.css";
-@import "../blocks/section/_offset/section_offset.css";
+@import "../blocks/section/_offset/section_offset_section.css";
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__title/lead__title.css";
 @import "../blocks/lead/__subtitle/lead__subtitle.css";
@@ -49,6 +49,7 @@
 @import "../blocks/cover/__overlay/cover__overlay.css";
 
 @import "../blocks/footer/footer.css";
+@import "../blocks/navigation/navigation.css";
 @import "../blocks/footer/__links/footer__links.css";
 @import "../blocks/footer/__link/footer__link.css";
 @import "../blocks/footer/__copyright/footer__copyright.css";
