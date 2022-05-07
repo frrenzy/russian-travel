@@ -1,11 +1,5 @@
 .section_offset_section {
-  margin-bottom: 92px;
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .section_offset_section {
-    margin-bottom: 88px;
-  }
+  margin-bottom: 102px;
 }
 
 @media screen and (max-width: 767px) {

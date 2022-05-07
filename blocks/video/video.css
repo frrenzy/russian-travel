@@ -1,0 +1,17 @@
+.video {
+  width: calc(100% - 96px);
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .video {
+    width: calc(100% - 48px);
+    max-width: 928px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .video {
+    width: calc(100% - 32px);
+    max-width: 720px;
+  }
+}
