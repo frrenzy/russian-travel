@@ -32,7 +32,7 @@
 
 @import "../blocks/photo-grid/photo-grid.css";
 @import "../blocks/photo-grid/__container/photo-grid__container.css";
-@import "../blocks/photo-grid/__item/photo-grid__item.css";
+@import "../blocks/photo-grid/__photo/photo-grid__photo.css";
 
 @import "../blocks/places/places.css";
 @import "../blocks/place/place.css";
